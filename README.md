@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi there! 
 
 I am an Electrical Engineer with a technical background in Electronics and Informatics.
 
@@ -6,15 +6,22 @@ I am an Electrical Engineer with a technical background in Electronics and Infor
 
 - **Maintenance and Assembly of Electronic Circuit Boards**
 - **Microcomputers and Notebooks Maintenance**
-- **Network Installation and Configuration**
+- **Servers Installation and Configuration**
 
 ## 💻 Skills
 
 - **Operating Systems:**
-  - Installation, configuration, and utilization of Windows and Linux systems.
+  - Servers, Windows and Linux based systems.
 
 - **Embedded Systems:**
-  - Installation, configuration, and development of software for Arduino and STM32 platforms.
+   - Software Development for Arduino and STM32 platforms.
+     
+- **Programming Languages:**
+    
+   - Python (pyserial, pandas, flask)
+   - Mysql
+   - C#
+   - Assembly (Microchip PIC)
 
 Feel free to check out my projects and connect with me!
 
