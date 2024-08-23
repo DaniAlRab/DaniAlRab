@@ -11,7 +11,7 @@ I am an Electrical Engineer with a technical background in Electronics and Infor
 ## 💻 Skills
 
 - **Operating Systems:**
-  - Servers, Windows and Linux based systems.
+  - Servers, Windows, and Linux-based systems.
 
 - **Embedded Systems:**
    - Software Development for Arduino and STM32 platforms.
