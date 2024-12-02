@@ -18,7 +18,7 @@ I am an Electrical Engineer with a technical background in Electronics and Infor
      
 - **Programming Languages:**
     
-   - Python (pyserial, pandas, flask).
+   - Python.
    - Mysql.
    - C, C#, C++.
 
