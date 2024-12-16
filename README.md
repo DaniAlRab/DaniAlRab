@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-I am an Electrical Engineer with a technical background in Electronics and Informatics.
+"I am an Electrical Engineer with a strong technical foundation in Electronics and Information Technology."
 
 ## 🛠️ Experience
 
