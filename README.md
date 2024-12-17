@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Danilo!  
 🔌 **Electrical Engineer** | **Embedded Systems Enthusiast** | **Problem Solver**  
 
-I have a robust technical foundation in **Electronics** and **Information Technology**, with experience in **Hardware and Software Integration**. I enjoy building **Efficient, Scalable Solutions** to tackle real-world challenges.
+I have a robust technical foundation in **Electronics** and **Information Technology**, with experience in **Hardware and Software Integration**. 
+I enjoy building **Efficient, Scalable Solutions** to tackle real-world challenges.
 
 ---
 
