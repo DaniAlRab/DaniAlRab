@@ -1,27 +1,51 @@
-# 👋 Hi there! 
+# 👋 Hi, I'm Danilo!  
+🔌 **Electrical Engineer** | **Embedded Systems Enthusiast** | **Problem Solver**  
 
-"I am an Electrical Engineer with a strong technical foundation in Electronics and Information Technology."
-
-## 🛠️ Experience
-
-- **Maintenance and Assembly of Electronic Circuit Boards**
-- **Microcomputers and Notebooks Maintenance**
-- **Servers Installation and Configuration**
-
-## 💻 Skills
-
-- **Operating Systems:**
-  - Servers, Windows, and Linux-based systems.
-
-- **Embedded Systems:**
-   - Software Development for Arduino and STM32 platforms.
-     
-- **Programming Languages:**
-    
-   - Python.
-   - Mysql.
-   - C, C#, C++.
-
-Feel free to check out my projects and connect with me!
+I have a robust technical foundation in **Electronics** and **Information Technology**, with experience in **Hardware and Software Integration**. I enjoy building **Efficient, Scalable Solutions** to tackle real-world challenges.
 
 ---
+
+## 🛠️ **Experience**  
+
+### 🛠️ **Maintenance & Assembly of Electronic Circuit Boards**  
+- Performing precision work to ensure the **quality**, **functionality**, and **durability** of electronic systems.  
+
+### 💻 **Microcomputers and Notebooks Maintenance**  
+- Diagnosing, repairing, and optimizing **computers** and **laptops** for peak performance and reliability.  
+
+### 🖥️ **Servers Installation and Configuration**  
+- Deploying, configuring, and maintaining servers for **robust** and **reliable** system performance across **Windows** and **Linux** platforms.  
+
+---
+
+## 💡 **Technical Skills**  
+
+- **Operating Systems:**  
+   - Linux | Windows | Server Environments  
+
+- **Embedded Systems Development:**  
+   - Proficient in **Arduino** and **STM32** platforms  
+
+- **Programming Languages:**  
+   - Python | C | C++ | C#  
+
+- **Databases:**  
+   - MySQL  
+
+---
+
+## 🚀 **Projects**  
+Explore my repositories to see projects on:  
+- **Embedded Systems Development**  
+- **Python Automation**  
+- **Hardware Integration**  
+
+---
+
+## 📫 **Connect With Me**  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/danilo-alberto-alves-rabelo](#)  
+- 📧 **Email:** [x64asstec@hotmail.com](#) 
+
+---
+
+Let’s collaborate to build innovative and impactful solutions! 🚀  
