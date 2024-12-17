@@ -9,6 +9,9 @@ I enjoy building **Efficient, Scalable Solutions** to tackle real-world challeng
 ## 🛠️ **Experience**  
 
 ### 🛠️ **Maintenance & Assembly of Electronic Circuit Boards**  
+
+### 🖧 **Maintenance & Assembly of Electronic Circuit Boards** 
+
 - Performing precision work to ensure the **quality**, **functionality**, and **durability** of electronic systems.  
 
 ### 💻 **Microcomputers and Notebooks Maintenance**  
