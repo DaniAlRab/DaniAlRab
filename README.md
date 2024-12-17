@@ -23,7 +23,7 @@ I enjoy building **Efficient, Scalable Solutions** to tackle real-world challeng
 ## 💡 **Technical Skills**  
 
 - **Operating Systems:**  
-   - Linux | Windows | Server Environments  
+   - Linux | Windows (Server Environments)
 
 - **Embedded Systems Development:**  
    - Proficient in **Arduino** and **STM32** platforms  
