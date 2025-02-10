@@ -26,7 +26,8 @@ I enjoy building **Efficient, Scalable Solutions** to tackle real-world challeng
    - Linux | Windows (Server Environments)
 
 - **Embedded Systems Development:**  
-   - Proficient in **Arduino** and **STM32** platforms  
+   - Proficient in **Arduino**, **STM32** and **Espessif IDF** platforms.
+   - Experience with **Raspberry Pi**, **ESP32**, **ARM** based devices. 
 
 - **Programming Languages:**  
    - Python | C | C++ | C#  
