@@ -25,12 +25,14 @@ I enjoy building **Efficient, Scalable Solutions** to tackle real-world challeng
 - **Operating Systems:**  
    - Linux | Windows (Server Environments)
 
-- **Embedded Systems Development:**  
-   - Proficient in **Arduino**, **STM32** and **Espessif IDF** platforms.
-   - Experience with **Raspberry Pi**, **ESP32**, **ARM** based devices. 
+- **Embedded Systems Development:**
+   - SIEMENS **Tia Portal**.   
+   - Proficient in **STM32** and **Espessif IDF** platforms.
+   - Experience with **ARM** & **Microchip PIC** based devices.
+    
 
 - **Programming Languages:**  
-   - Python | C | C++ | C#  
+   - C# | C | C++ | Python
 
 - **Databases:**  
    - MySQL  
@@ -41,7 +43,8 @@ I enjoy building **Efficient, Scalable Solutions** to tackle real-world challeng
 Explore my repositories to see projects on:  
 - **Embedded Systems Development**  
 - **Python Automation**  
-- **Hardware Integration**  
+- **Hardware Integration**
+ 
 
 ---
 
